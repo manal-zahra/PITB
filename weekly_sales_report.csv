@@ -1,0 +1,10 @@
+category,total_revenue,report_section,customer_id,customer_name,total_spent,status,order_count,month,revenue,prev_month_revenue,pct_change
+Clothing,32148.84,revenue_per_category,,,,,,,,,
+Electronics,27031.38,revenue_per_category,,,,,,,,,
+Beauty,22446.34,revenue_per_category,,,,,,,,,
+Home,18538.2,revenue_per_category,,,,,,,,,
+Sports,16186.52,revenue_per_category,,,,,,,,,
+,,orders_by_status,,,,shipped,36.0,,,,
+,,orders_by_status,,,,cancelled,33.0,,,,
+,,orders_by_status,,,,pending,24.0,,,,
+,,orders_by_status,,,,delivered,22.0,,,,
