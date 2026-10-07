@@ -70,9 +70,4 @@ combined = pd.concat(
 
 combined.to_csv("weekly_sales_report.csv", index=False)
 
-print("Report sections generated:")
-print(f"- Revenue per category: {len(revenue_by_category)} rows")
-print(f"- Top 5 customers: {len(top_customers)} rows")
-print(f"- Orders by status: {len(orders_by_status)} rows")
-print(f"- Month-over-month revenue: {len(mom_revenue)} rows")
 print("export_report.py finished -> weekly_sales_report.csv")
